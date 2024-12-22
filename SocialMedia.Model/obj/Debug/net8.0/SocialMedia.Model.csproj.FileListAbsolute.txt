@@ -1,0 +1,14 @@
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\bin\Debug\net8.0\SocialMedia.Model.deps.json
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\bin\Debug\net8.0\SocialMedia.Model.runtimeconfig.json
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\bin\Debug\net8.0\SocialMedia.Model.dll
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\bin\Debug\net8.0\SocialMedia.Model.pdb
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\SocialMedia.Model.csproj.AssemblyReference.cache
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\SocialMedia.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\SocialMedia.Model.AssemblyInfoInputs.cache
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\SocialMedia.Model.AssemblyInfo.cs
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\SocialMedia.Model.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\SocialMedia.Model.dll
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\refint\SocialMedia.Model.dll
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\SocialMedia.Model.pdb
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\SocialMedia.Model.genruntimeconfig.cache
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Model\obj\Debug\net8.0\ref\SocialMedia.Model.dll

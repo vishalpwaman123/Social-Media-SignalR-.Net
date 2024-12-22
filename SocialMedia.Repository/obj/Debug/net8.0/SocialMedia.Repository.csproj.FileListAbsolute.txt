@@ -1,0 +1,15 @@
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\bin\Debug\net8.0\SocialMedia.Repository.deps.json
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\bin\Debug\net8.0\SocialMedia.Repository.dll
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\bin\Debug\net8.0\SocialMedia.Repository.pdb
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\bin\Debug\net8.0\SocialMedia.Model.dll
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\bin\Debug\net8.0\SocialMedia.Model.pdb
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\SocialMedia.Repository.csproj.AssemblyReference.cache
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\SocialMedia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\SocialMedia.Repository.AssemblyInfoInputs.cache
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\SocialMedia.Repository.AssemblyInfo.cs
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\SocialMedia.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\SocialMe.E5698BF9.Up2Date
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\SocialMedia.Repository.dll
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\refint\SocialMedia.Repository.dll
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\SocialMedia.Repository.pdb
+C:\Users\Vishal Waman\source\repos\P\Social Media\SocialMedia.Web.API\SocialMedia.Repository\obj\Debug\net8.0\ref\SocialMedia.Repository.dll

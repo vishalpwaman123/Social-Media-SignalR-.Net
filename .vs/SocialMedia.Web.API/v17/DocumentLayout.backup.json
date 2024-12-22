@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A50E6-AEAB-472C-AED8-76DDF298A7C6}|SocialMedia.Model\\SocialMedia.Model.csproj|c:\\users\\vishal waman\\source\\repos\\p\\social media\\socialmedia.web.api\\socialmedia.model\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A50E6-AEAB-472C-AED8-76DDF298A7C6}|SocialMedia.Model\\SocialMedia.Model.csproj|solutionrelative:socialmedia.model\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D987AE-BCFB-45B7-81E2-F92231480488}|SocialMedia.Web.API\\SocialMedia.Web.API.csproj|c:\\users\\vishal waman\\source\\repos\\p\\social media\\socialmedia.web.api\\socialmedia.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D987AE-BCFB-45B7-81E2-F92231480488}|SocialMedia.Web.API\\SocialMedia.Web.API.csproj|solutionrelative:socialmedia.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D987AE-BCFB-45B7-81E2-F92231480488}|SocialMedia.Web.API\\SocialMedia.Web.API.csproj|c:\\users\\vishal waman\\source\\repos\\p\\social media\\socialmedia.web.api\\socialmedia.web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29D987AE-BCFB-45B7-81E2-F92231480488}|SocialMedia.Web.API\\SocialMedia.Web.API.csproj|solutionrelative:socialmedia.web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7A50E6-AEAB-472C-AED8-76DDF298A7C6}|SocialMedia.Model\\SocialMedia.Model.csproj|c:\\users\\vishal waman\\source\\repos\\p\\social media\\socialmedia.web.api\\socialmedia.model\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7A50E6-AEAB-472C-AED8-76DDF298A7C6}|SocialMedia.Model\\SocialMedia.Model.csproj|solutionrelative:socialmedia.model\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F77C64E-AE74-4652-8350-7E84F8A1CF3C}|SocialMedia.Repository\\SocialMedia.Repository.csproj|c:\\users\\vishal waman\\source\\repos\\p\\social media\\socialmedia.web.api\\socialmedia.repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F77C64E-AE74-4652-8350-7E84F8A1CF3C}|SocialMedia.Repository\\SocialMedia.Repository.csproj|solutionrelative:socialmedia.repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D987AE-BCFB-45B7-81E2-F92231480488}|SocialMedia.Web.API\\SocialMedia.Web.API.csproj|c:\\users\\vishal waman\\source\\repos\\p\\social media\\socialmedia.web.api\\socialmedia.web.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29D987AE-BCFB-45B7-81E2-F92231480488}|SocialMedia.Web.API\\SocialMedia.Web.API.csproj|solutionrelative:socialmedia.web.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Model\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Model\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Model\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SocialMedia.Model\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:17:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Model\\Context\\User.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Model\\Context\\User.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Model\\Context\\User.cs",
+              "RelativeToolTip": "SocialMedia.Model\\Context\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:16:46.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Web.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialMedia.Web.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Web.API\\appsettings.json",
+              "RelativeToolTip": "SocialMedia.Web.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T15:04:41.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Web.API\\Program.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Web.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Web.API\\Program.cs",
+              "RelativeToolTip": "SocialMedia.Web.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:58:50.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Repository\\AuthRepository.cs",
+              "RelativeToolTip": "SocialMedia.Repository\\AuthRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:51:10.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Web.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SocialMedia.Web.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\P\\Social Media\\SocialMedia.Web.API\\SocialMedia.Web.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SocialMedia.Web.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:52:58.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
